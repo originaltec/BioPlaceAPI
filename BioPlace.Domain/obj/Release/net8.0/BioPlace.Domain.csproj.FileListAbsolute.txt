@@ -1,0 +1,11 @@
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\bin\Release\net8.0\BioPlace.Domain.deps.json
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\bin\Release\net8.0\BioPlace.Domain.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\bin\Release\net8.0\BioPlace.Domain.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Release\net8.0\BioPlace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Release\net8.0\BioPlace.Domain.AssemblyInfoInputs.cache
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Release\net8.0\BioPlace.Domain.AssemblyInfo.cs
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Release\net8.0\BioPlace.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Release\net8.0\BioPlace.Domain.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Release\net8.0\refint\BioPlace.Domain.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Release\net8.0\BioPlace.Domain.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Release\net8.0\ref\BioPlace.Domain.dll

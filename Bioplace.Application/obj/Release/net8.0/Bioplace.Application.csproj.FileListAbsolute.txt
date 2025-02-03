@@ -1,0 +1,15 @@
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\bin\Release\net8.0\Bioplace.Application.deps.json
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\bin\Release\net8.0\Bioplace.Application.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\bin\Release\net8.0\Bioplace.Application.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\bin\Release\net8.0\BioPlace.Domain.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\bin\Release\net8.0\BioPlace.Domain.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\Bioplace.Application.csproj.AssemblyReference.cache
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\Bioplace.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\Bioplace.Application.AssemblyInfoInputs.cache
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\Bioplace.Application.AssemblyInfo.cs
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\Bioplace.Application.csproj.CoreCompileInputs.cache
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\Bioplace.789FCE99.Up2Date
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\Bioplace.Application.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\refint\Bioplace.Application.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\Bioplace.Application.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bioplace.Application\obj\Release\net8.0\ref\Bioplace.Application.dll

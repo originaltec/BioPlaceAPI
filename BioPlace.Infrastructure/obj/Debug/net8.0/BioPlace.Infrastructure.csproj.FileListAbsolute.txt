@@ -1,0 +1,17 @@
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.AssemblyInfo.cs
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\BioPlace.Infrastructure.deps.json
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\BioPlace.Infrastructure.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\BioPlace.Infrastructure.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\Bioplace.Application.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\BioPlace.Domain.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\Bioplace.Application.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\BioPlace.Domain.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.5FDCBA72.Up2Date
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\refint\BioPlace.Infrastructure.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.pdb
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\ref\BioPlace.Infrastructure.dll
