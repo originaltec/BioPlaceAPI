@@ -12,5 +12,10 @@ namespace Bioplace.Application.Interfaces
         Task<bool> UpdateProductAsync(Product product);
         Task<bool> DeleteProductAsync(int id);
         Task<IEnumerable<WooProduct>> GetWooProductsAsync();
+
+        /* Vendors */
+        Task<IEnumerable<dynamic>> GetVendorsAsync();
+        
     }
+
 }

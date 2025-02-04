@@ -118,5 +118,22 @@ namespace BioPlace.Infrastructure.Repositories
             return allProducts;
         }
 
+        public async Task<IEnumerable<dynamic>> GetVendorsAsync()
+        {
+            var token = await GetTokenAsync("bioplace_apiu", "NXZ%jZb5XD^hHyK^k*");
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
+            var response = await _httpClient.GetAsync($"{_httpClient.BaseAddress}wp-json/dokan/v1/vendors");
+            if (response.IsSuccessStatusCode)
+            {
+                var vendors = await response.Content.ReadFromJsonAsync<IEnumerable<dynamic>>();
+                return vendors ?? Enumerable.Empty<dynamic>();
+            }
+            else
+            {
+                return Enumerable.Empty<dynamic>();
+            }
+        }
+
     }
 }
