@@ -160,9 +160,24 @@ namespace BioPlace.Infrastructure.Repositories
             }
         }
 
-        public Task<IEnumerable<Category>> GetCategoriesSync()
+        public async Task<IEnumerable<Domain.Entities.Categories.Category>> GetCategoriesSync()
         {
-            throw new NotImplementedException();
+            var token = await GetTokenAsync("bioplace_apiu", "NXZ%jZb5XD^hHyK^k*"); 
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);  
+
+            var response = await _httpClient.GetAsync(_httpClient.BaseAddress + "wc/v3/products/categories"); 
+
+            if (response.IsSuccessStatusCode)
+            {
+                var categories = await response.Content.ReadFromJsonAsync<IEnumerable<Domain.Entities.Categories.Category>>();
+                return categories ?? Enumerable.Empty<Domain.Entities.Categories.Category>();  
+            }
+            else
+            {
+                return Enumerable.Empty<Domain.Entities.Categories.Category>();
+            }
         }
+
+
     }
 }

@@ -1,5 +1,6 @@
 ﻿using Bioplace.Application.Interfaces;
 using BioPlace.Domain.Entities;
+using BioPlace.Domain.Entities.Devices;
 using System.Net.Http.Json;
 
 

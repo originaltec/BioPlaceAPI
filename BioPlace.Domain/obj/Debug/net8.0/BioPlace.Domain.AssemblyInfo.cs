@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BioPlace.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+081a14000b455a143bda84deb63c74dc04c2cb2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5593b03309af07bf7743d3f1fc2d7a00bae8a9c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BioPlace.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BioPlace.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

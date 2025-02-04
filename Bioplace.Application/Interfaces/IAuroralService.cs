@@ -1,4 +1,5 @@
 ﻿using BioPlace.Domain.Entities;
+using BioPlace.Domain.Entities.Devices;
 
 namespace Bioplace.Application.Interfaces
 {
