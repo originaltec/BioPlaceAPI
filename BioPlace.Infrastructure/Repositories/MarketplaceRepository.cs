@@ -178,6 +178,23 @@ namespace BioPlace.Infrastructure.Repositories
             }
         }
 
+        public async Task<Domain.Entities.Categories.Category> GetCategoryById(int categoryId)
+        {
+            var token = await GetTokenAsync("bioplace_apiu", "NXZ%jZb5XD^hHyK^k*");
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
+            var response = await _httpClient.GetAsync(_httpClient.BaseAddress + $"wc/v3/products/categories/{categoryId}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                var category = await response.Content.ReadFromJsonAsync<Domain.Entities.Categories.Category>();
+                return category;
+            }
+            else
+            {
+                return null;
+            }
+        }
 
     }
 }

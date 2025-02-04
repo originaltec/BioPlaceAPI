@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bioplace.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5593b03309af07bf7743d3f1fc2d7a00bae8a9c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a301c19900a55495e0a9d83049c35c0f8717e563")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bioplace.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bioplace.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

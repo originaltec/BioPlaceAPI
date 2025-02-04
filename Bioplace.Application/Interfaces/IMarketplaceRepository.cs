@@ -15,12 +15,13 @@ namespace Bioplace.Application.Interfaces
         Task<bool> DeleteProductAsync(int id);
 
         Task<IEnumerable<WooProduct>> GetWooProductsAsync();
-        Task<IEnumerable<Product>> GetWooProductByIdAsync(int productId);
+        Task<IEnumerable<BioPlace.Domain.Entities.Products.Product>> GetWooProductByIdAsync(int productId);
 
         /* Vendors */
         Task<IEnumerable<Vendor>> GetVendorsAsync();
 
         /* Categories */
         Task<IEnumerable<BioPlace.Domain.Entities.Categories.Category>> GetCategoriesSync();
+        Task<BioPlace.Domain.Entities.Categories.Category> GetCategoryById(int categoryId);
     }
 }
