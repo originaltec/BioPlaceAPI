@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BioPlace.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a1ac615b4ee1dcc28303e69cf9353a74dbe7ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+081a14000b455a143bda84deb63c74dc04c2cb2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BioPlace.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BioPlace.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,7 +16,7 @@ namespace Bioplace.Application.Interfaces
         Task<IEnumerable<Product>> GetWooProductByIdAsync(int productId);
 
         /* Vendors */
-        Task<IEnumerable<dynamic>> GetVendorsAsync();
+        Task<IEnumerable<Vendor>> GetVendorsAsync();
         
     }
 

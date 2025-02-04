@@ -82,7 +82,7 @@ namespace BioPlace.Infrastructure.Repositories
             return response.IsSuccessStatusCode;
         }
 
-        //Woocommerce Products
+        // Woocommerce Products
         public async Task<IEnumerable<WooProduct>> GetWooProductsAsync()
         {
             var token = await GetTokenAsync("bioplace_apiu", "NXZ%jZb5XD^hHyK^k*");
@@ -138,22 +138,27 @@ namespace BioPlace.Infrastructure.Repositories
             return new List<Product> { product };
         }
 
-        public async Task<IEnumerable<dynamic>> GetVendorsAsync()
+
+        public async Task<IEnumerable<Vendor>> GetVendorsAsync()
         {
             var token = await GetTokenAsync("bioplace_apiu", "NXZ%jZb5XD^hHyK^k*");
+
             _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
-            var response = await _httpClient.GetAsync($"{_httpClient.BaseAddress}wp-json/dokan/v1/vendors");
+            var response = await _httpClient.GetAsync(_httpClient.BaseAddress + "dokan/v1/vendors");
+
             if (response.IsSuccessStatusCode)
             {
-                var vendors = await response.Content.ReadFromJsonAsync<IEnumerable<dynamic>>();
-                return vendors ?? Enumerable.Empty<dynamic>();
+                var vendors = await response.Content.ReadFromJsonAsync<IEnumerable<Vendor>>();
+                return vendors ?? Enumerable.Empty<Vendor>();
             }
             else
             {
-                return Enumerable.Empty<dynamic>();
+                return Enumerable.Empty<Vendor>();
             }
         }
+
+
 
     }
 }
