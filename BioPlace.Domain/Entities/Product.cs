@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BioPlace.Domain.Entities
+namespace BioPlace.Domain.Entities.Products
 {
     public class Product
     {

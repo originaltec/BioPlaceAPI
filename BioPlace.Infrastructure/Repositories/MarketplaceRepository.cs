@@ -2,7 +2,9 @@
 using System.Net.Http.Json;
 using Bioplace.Application.DTOs;
 using Bioplace.Application.Interfaces;
-using BioPlace.Domain.Entities;
+using BioPlace.Domain.Entities.Products;
+using BioPlace.Domain.Entities.Vendors;
+using BioPlace.Domain.Entities.WooProduct;
 
 
 namespace BioPlace.Infrastructure.Repositories
@@ -158,7 +160,9 @@ namespace BioPlace.Infrastructure.Repositories
             }
         }
 
-
-
+        public Task<IEnumerable<Category>> GetCategoriesSync()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
