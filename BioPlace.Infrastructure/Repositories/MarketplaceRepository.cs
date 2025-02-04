@@ -118,6 +118,26 @@ namespace BioPlace.Infrastructure.Repositories
             return allProducts;
         }
 
+        public async Task<IEnumerable<Product>> GetWooProductByIdAsync(int productId)
+        {
+            var token = await GetTokenAsync("bioplace_apiu", "NXZ%jZb5XD^hHyK^k*");
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
+            Product product = null;
+            var response = await _httpClient.GetAsync($"{_httpClient.BaseAddress}wc/v3/products/{productId}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                product = await response.Content.ReadFromJsonAsync<Product>();
+            }
+            else
+            {
+                throw new Exception("Error al obtener el producto");
+            }
+
+            return new List<Product> { product };
+        }
+
         public async Task<IEnumerable<dynamic>> GetVendorsAsync()
         {
             var token = await GetTokenAsync("bioplace_apiu", "NXZ%jZb5XD^hHyK^k*");
