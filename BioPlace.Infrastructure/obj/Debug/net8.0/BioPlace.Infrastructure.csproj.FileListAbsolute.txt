@@ -15,6 +15,7 @@ C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bi
 C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\refint\BioPlace.Infrastructure.dll
 C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.pdb
 C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\ref\BioPlace.Infrastructure.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\obj\Debug\net8.0\BioPlace.Infrastructure.sourcelink.json
 C:\Users\EgorSantamaria\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\BioPlace.Infrastructure.deps.json
 C:\Users\EgorSantamaria\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\BioPlace.Infrastructure.dll
 C:\Users\EgorSantamaria\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Infrastructure\bin\Debug\net8.0\BioPlace.Infrastructure.pdb

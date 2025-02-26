@@ -9,6 +9,7 @@ C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\Bi
 C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Debug\net8.0\refint\BioPlace.Domain.dll
 C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Debug\net8.0\BioPlace.Domain.pdb
 C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Debug\net8.0\ref\BioPlace.Domain.dll
+C:\Users\Originaltec\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\obj\Debug\net8.0\BioPlace.Domain.sourcelink.json
 C:\Users\EgorSantamaria\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\bin\Debug\net8.0\BioPlace.Domain.deps.json
 C:\Users\EgorSantamaria\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\bin\Debug\net8.0\BioPlace.Domain.dll
 C:\Users\EgorSantamaria\OneDrive - Juan Saez Marin\Originaltec\Projects\Bioplace\BioPlace.Domain\bin\Debug\net8.0\BioPlace.Domain.pdb

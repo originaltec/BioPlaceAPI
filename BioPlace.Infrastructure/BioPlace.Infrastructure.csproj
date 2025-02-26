@@ -9,7 +9,7 @@
   <ItemGroup>
     <Folder Include="Configuration\" />
     <Folder Include="Repositories\AuroralRepository\" />
-    <Folder Include="Repositories\MarketplaceRepository\" />
+    <Folder Include="Repositories\AuthRepository\" />
   </ItemGroup>
 
   <ItemGroup>
